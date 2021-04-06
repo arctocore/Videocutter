@@ -11,5 +11,5 @@ VideoTrackInput, VideoFile, VideoOut
 1: Place the video tracks files (.json) inside the folder: (VideoTrackInput)
  1.1: Format look like this: Trackname1 00:13:56  00:13:58 |
 2: Place the video file (.mp4) inside the folder: (VideoFile)
-3: Start ArcToCore.Core.HandballBoard.VideoCutter.exe
+3: Start ArcToCore.Core.VideoCutter.exe
 4: Video files with extension (.mp4) is being added to the folder (VideoOut)
